@@ -11,9 +11,10 @@ Claude Code, Codex 같은 AI 도구를 내 컴퓨터에 맞게 설치하고, 로
 | 운영체제 | 파일 | 지원 |
 |---|---|---|
 | Windows | `GPTersSetup-Windows.exe` | Windows 10 버전 1809 이상 |
-| Mac | 준비 중 | macOS 13 이상 권장 |
+| Mac | `GPTersSetup-Mac.dmg` | macOS 13 이상 권장 (Apple Silicon·Intel) |
 
-Windows 설치 파일은 **지니파이 주식회사** 이름으로 서명되어 있어요. 설치 창의 게시자가 이 이름인지 확인하세요.
+- Windows 설치 파일은 **지니파이 주식회사** 이름으로 서명되어 있어요. 설치 창의 게시자가 이 이름인지 확인하세요.
+- Mac 앱은 **Jinwoo Hyun** 개발자 이름으로 서명하고 Apple 공증을 마쳤어요.
 
 ## 사용하려면
 
